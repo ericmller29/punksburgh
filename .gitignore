@@ -1,0 +1,12 @@
+_Store
+Thumbs.db
+
+**/.sass-cache
+**/*.log
+**/*.min.*
+**/node_modules/
+
+# If it's a WordPress project, ignore the src directory, but not src/wp-content
+# /*
+# !readme.md
+# !wp-content

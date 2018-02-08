@@ -1,0 +1,16 @@
+root = true
+
+# Unix-style line endings, newline ending in every file, trim trailing whitespace
+[*]
+end_of_line              = lf
+insert_final_newline     = true
+trim_trailing_whitespace = true
+
+# Default character set
+[*.{html,php,css,scss,js}]
+charset = utf-8
+
+# Indents
+[*.{html,php,js,css,scss,json}]
+indent_style = space
+indent_size = 2
