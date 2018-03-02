@@ -1,4 +1,6 @@
 <?php //Template Name: Weekend Round Ups ?>
+
+<?php get_header(); ?>
 <div class="wrapper section-inner">
 
 	<div class="content left">
